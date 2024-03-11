@@ -1,4 +1,4 @@
-Nostr & Bluesky 年表
+編集中
 
 <!--
 **Maybe515/Maybe515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
