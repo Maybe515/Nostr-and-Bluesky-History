@@ -1,7 +1,7 @@
 編集中
 
-#Nostr & Bluesky History
+# Nostr & Bluesky History
 
-#Nostr
+# Nostr
 
-#Bluesky
+# Bluesky
