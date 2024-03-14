@@ -1,6 +1,6 @@
 編集中
 
-# Nostr & Bluesky History
+めいびぃさんの『Nostr & Bluesky History』
 
 # Nostr
 
