@@ -1,10 +1,17 @@
 編集中
 
+<style>
+    .txt-blue{
+        color: blue;
+    }
+
+</style>
+
 めいびぃさんの『Nostr & Bluesky History』
-<hr>
+
 # Nostr
 <table>
-    <tr>
+    <tr class="txt-blue">
         <th>日時</th>
         <th>内容</th>
         <th>分類</th>
