@@ -2,7 +2,7 @@
 
 <style>
     .txt-blue{
-        color: blue;
+        color
     }
 
 </style>
@@ -12,7 +12,7 @@
 # Nostr
 <table>
     <tr class="txt-blue">
-        <th>日時</th>
+        <th style="color: blue;">日時</th>
         <th>内容</th>
         <th>分類</th>
         <th>備考</th>
