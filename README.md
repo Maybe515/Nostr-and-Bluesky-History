@@ -3,6 +3,11 @@
         <td></td><td></td><td></td><td></td>
     </tr>
 -->
+<div align="right">
+    <b>Created since　2024.03.12</b>
+    <br>
+    <b>Update since　2024.03.16</b>
+</div>
 
 ## Nostr
 <table>
