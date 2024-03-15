@@ -13,7 +13,7 @@
         <td>2023.04.07</td><td>Nostr利用開始</td><td>その他</td><td>「そろそろ分散型SNSにも手をつけるか...」と前情報なしに彷徨って辿り着いた。</td>
     </tr>
     <tr>
-        <td>2023.04.12</td><td>Nostr勉強会#2</td><td>勉強会</td><td>一般参加</td>
+        <td>2023.04.12</td><td>Nostr勉強会#2</td><td>勉強会</td><td>オンライン一般参加</td>
     </tr>
     <tr>
         <td>2024.03.09</td><td>発火大根さんVerify</td><td>エンカ</td><td>馬刺しオフ前に秋葉原にて。のす民との初めてのエンカ。</td>
@@ -52,7 +52,7 @@
         <td>2023.04.17</td><td>Bluesky利用開始</td><td>その他</td><td>のす村でしのさんの招待コードをハイエナして、お空へ飛び立った。</td>
     </tr>
     <tr>
-        <td>2024.02.21</td><td>Bluesky/AT Protocol勉強会#3</td><td>勉強会</td><td>一般参加</td>
+        <td>2024.02.21</td><td>Bluesky/AT Protocol勉強会#3</td><td>勉強会</td><td>オンライン一般参加</td>
     </tr>    
 </table>
 
