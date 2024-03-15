@@ -41,6 +41,7 @@
         <td>2024.05.04~06</td><td>みずがめ座彗星群</td><td>オフ会</td><td>主催：kojiraさん</td>
     </tr>
 </table>
+<br>
 
 ## Bluesky
 <table>
