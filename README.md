@@ -1,9 +1,9 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <div align="right">
-    <b>Update since　2024.03.25</b>
+    <b>Update since　2024.03.26</b>
 </div>
 
-## Nostr
+## 💜 Nostr
 <table>
     <tr>
         <th>日時</th>
@@ -55,17 +55,17 @@
 <details>
   <summary>今後の予定</summary>
   <ul>
-    <li>2024.04.27　ときわ亭オフ（いくらどんさん起案）</li>
-    <li>2024.05.03　馬刺しオフ（しおねぇ起案）</li>
-    <li>2024.05.04~05.06　みずがめ座流星群（しのさん宅）</li>
-    <li>未定　発火大根さんと酒クズ</li>
-    <li>未定　こうほうニキと『麺屋ととのう。』スリップ入店</li>
-    <li>未定　NAVYBLUE 撮影会（りらさん起案）</li>
+    <li>【2024.04.27】　ときわ亭オフ（いくらどんさん起案）</li>
+    <li>【2024.05.03】　馬刺しオフ（しおねぇ起案）</li>
+    <li>【2024.05.04~05.06】　みずがめ座流星群（しのさん宅）</li>
+    <li>【未定】　発火大根さんと酒クズ</li>
+    <li>【未定】　こうほうニキと『麺屋ととのう。』スリップ入店</li>
+    <li>【未定】　𝒀𝑶𝑲𝑶𝑯𝑨𝑴𝑨 𝑵𝑨𝑽𝒀𝑩𝑳𝑼𝑬 撮影会（りらさん起案）</li>
   </ul>
 </details>
 <br>
 
-## Bluesky
+## 💙 Bluesky
 <table>
     <tr>
         <th>日時</th>
@@ -99,7 +99,7 @@
 <details>
   <summary>今後の予定</summary>
   <ul>
-    <li>2024.04.13　Bluesky Meetup in Tokyo Vol.2（オンライン一般参加）</li>
-    <li>2024.04.14　Bluesky Meetup in Osaka Vol.2（現地一般参加）</li>
+    <li>【2024.04.13】　Bluesky Meetup in Tokyo Vol.2（オンライン一般参加）</li>
+    <li>【2024.04.14】　Bluesky Meetup in Osaka Vol.2（現地一般参加）</li>
   </ul>
 </details>
