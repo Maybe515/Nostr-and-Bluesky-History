@@ -134,13 +134,13 @@
     <tr>
         <td>2024.04.13</td>
         <td>Bluesky Meetup in Tokyo Vol.2</td>
-        <td>勉強会</td>
+        <td>交流会</td>
         <td>オンライン参加</td>
     </tr>
     <tr>
         <td>2024.04.14</td>
         <td>Bluesky Meetup in Osaka Vol.2</td>
-        <td>勉強会</td>
+        <td>交流会</td>
         <td>オンライン参加</td>
     </tr>    
 </table>
