@@ -1,6 +1,6 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <div align="right">
-    <b>Update since　2024.04.02</b>
+    <b>Update since　2024.04.14</b>
 </div>
 
 ## 💜 Nostr
@@ -21,7 +21,7 @@
         <td>2023.04.12</td>
         <td>Nostr勉強会#2</td>
         <td>勉強会</td>
-        <td>オンライン一般参加</td>
+        <td>オンライン参加</td>
     </tr>
     <tr>
         <td align="center" colspan="4"><b>2023.07.05～2024.02.07</b>　　SNS疲れ＋多忙期により隠居。活動先をTwitだけに絞って細々と活動していた。</td>
@@ -48,7 +48,7 @@
             <details>
               <summary>参加者</summary>
               <ul>
-                <li>鮫島禄郎（電子馬さん）- 主催</li>
+                <li>鮫島禄郎（電子馬）さん - 主催</li>
                 <li>kojiraさん</li>
                 <li>しのさん</li>
                 <li>おっぱぴぃさん</li>
@@ -90,7 +90,7 @@
 <details>
   <summary>今後の予定</summary>
   <ul>
-    <li>【2024.04.27】　ときわ亭オフ（いくらどんさん起案）</li>
+    <li>【2024.04.28】　クラフトビール会（おぱさん起案）</li>
     <li>【2024.05.03】　馬刺しオフ（しおねぇ起案）</li>
     <li>【2024.05.04~05.06】　みずがめ座流星群（しのさん宅）</li>
     <li>【2024.06.01】　しおねぇ生誕祭2024（おぱさん起案）</li>
@@ -129,14 +129,25 @@
         <td>2024.02.21</td>
         <td>Bluesky/AT Protocol勉強会#3</td>
         <td>勉強会</td>
-        <td>オンライン一般参加</td>
-    </tr>            
+        <td>オンライン参加</td>
+    </tr>
+    <tr>
+        <td>2024.04.13</td>
+        <td>Bluesky Meetup in Tokyo Vol.2</td>
+        <td>勉強会</td>
+        <td>オンライン参加</td>
+    </tr>
+    <tr>
+        <td>2024.04.14</td>
+        <td>Bluesky Meetup in Osaka Vol.2</td>
+        <td>勉強会</td>
+        <td>オンライン参加</td>
+    </tr>    
 </table>
 <br>
 <details>
   <summary>今後の予定</summary>
   <ul>
-    <li>【2024.04.13】　Bluesky Meetup in Tokyo Vol.2（オンライン一般参加）</li>
-    <li>【2024.04.14】　Bluesky Meetup in Osaka Vol.2（現地一般参加）</li>
+    <li></li>
   </ul>
 </details>
