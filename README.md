@@ -1,7 +1,8 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
-<div align="right">
-    <b>Update since　2024.04.14</b>
-</div>
+<b>
+    <p align="right">Update since　2024.04.19</p>
+    <p>※PCでの閲覧を推奨しています。</p>
+</b>
 
 ## 💜 Nostr
 <table>
