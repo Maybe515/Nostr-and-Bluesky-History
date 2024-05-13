@@ -1,6 +1,6 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <b><p>
-  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.05.09</div>
+  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.05.13</div>
 </p></b>
 
 ## 💜 Nostr
@@ -21,9 +21,11 @@
 |2024.05.03|馬刺しオフ in 池袋|オフ会|しおさんが馬刺したびたいと言って開催。<br>場所：[東京馬焼肉 三馬力](https://maps.app.goo.gl/Msn1zqFQRaHhXpNWA)<br><details><summary>参加者</summary><ul><li>しおさん</li><li>いくらどんさん</li><li>かすてらふぃさん</li><li>おっぱぴぃさん</li><li>kojiraさん</li></ul></details>|
 |2024.05.04~<br>2024.05.06|みずがめ座流星群 in 佐久・野辺山|オフ会|しのさん家に前泊して、天ぷらパーティ＆ジビエBBQをした。観測日には野辺山の方で星見。<br>場所：しのさん宅 ＆ [八ヶ岳ふれあい公園](https://maps.app.goo.gl/k35Zido9aFcZ41qn8)<br><details><summary>参加者</summary><ul><li>しのさん</li><li>いくらどんさん</li><li>ぽーまんさん</li><li>おっぱぴぃさん</li><li>鎌倉さん</li><li>りらさん</li><li>たーごいるさん</li><li>SuzuNyaさん</li><li>淀川さん</li><li>kojiraさん</li><li>kojiraさんの奥さん</li></ul></details>|
 |2024.05.11|秋陽さんオンラインオフ会|オフ会|オンライン参加|
-|2024.05.21|東海・八咫オフ|オフ会|おぱさん推しの純米酒専門YATAへ。東海初オフ会。<br>場所：[純米酒専門YATA 栄店]()<br><details><summary>参加者</summary><ul><li>おっぱぴぃさん</li></ul></details>|
-|2024.06.01|しおさんハピバ会2024|オフ会|しおさんの誕生祝いをする。レスぺを借りて赤から鍋パ。<br>場所：[よろずや下北沢]()<br><details><summary>参加者</summary><ul><li></li><li></li><li></li></ul></details>|
-|2024.06.15|しおじの湯オフ|オフ会|群馬の山奥（）にある温泉地へバスに乗っていく。<br>場所：[しおじの湯]()<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li><li>しのさん</li><li>ぽーまんさん</li><li>こうほうさん</li></ul></details>|
+<!--
+|2024.05.21|東海・八咫オフ|オフ会|おぱさん推しの純米酒専門YATAへ。東海初オフ会。<br>場所：[純米酒専門 YATA栄店](https://maps.app.goo.gl/8bpxQAvq9VpK1A319)<br><details><summary>参加者</summary><ul><li>おっぱぴぃさん</li></ul></details>|
+|2024.06.01|しおさんハピバ会2024|オフ会|しおさんの誕生祝いをする。レスぺを借りて赤から鍋パ。<br>場所：[よろずや下北沢](https://maps.app.goo.gl/sxBMFknUEKMLDtpS9)<br><details><summary>参加者</summary><ul><li>しおさん</li><li>おっぱぴぃさん</li><li>こうほうさん</li><li>いくらどんさん</li><li>ぽーまんさん</li><li>かすてらふぃさん</li><li>淀川さん</li><li>kojiraさん</li><li>たーごいるさん</li><li>ぺぇさん</li></ul></details>|
+|2024.06.15|しおじの湯オフ|オフ会|群馬の山奥にある浜平温泉へバスに乗っていく。<br>場所：[浜平温泉しおじの湯](https://maps.app.goo.gl/uQBhZBJHABfc5TKy7)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li><li>しのさん</li><li>ぽーまんさん</li><li>こうほうさん</li></ul></details>|
+-->
 <br>
 <details>
   <summary>今後の予定</summary>
@@ -34,7 +36,7 @@
     <li>【2024.06.15】　しおじの湯オフ</li>
     <li>【2024.06.29】　日本酒を飲む会 in 横浜</li>
     <li>【2024.07.20】　日本酒を飲む会 in 純米酒専門YATA</li>
-    <li>【お盆】　平家の郷オフ</li>
+    <li>【お盆中】　平家の郷オフ</li>
     <li>【未定】　さわやかオフ</li>
     <li>【未定】　𝒀𝑶𝑲𝑶𝑯𝑨𝑴𝑨 𝑵𝑨𝑽𝒀𝑩𝑳𝑼𝑬 撮影会</li>
   </ul>
