@@ -1,6 +1,6 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <b><p>
-  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.05.29</div>
+  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.06.03</div>
 </p></b>
 
 ## 💜 Nostr
@@ -23,8 +23,8 @@
 |2024.05.11|秋陽さんオンライン参加オフ会|オフ会|オンライン参加|
 |2024.05.22|東海・八咫オフ|オフ会|おぱさん推しの純米酒専門YATAへ。東海初オフ会。<br>場所：[純米酒専門 YATA栄店](https://maps.app.goo.gl/8bpxQAvq9VpK1A319)<br><details><summary>参加者</summary><ul><li>おっぱぴぃさん</li></ul></details>|
 |2024.05.31|SAKE MARKET|オフ会|仕事終わりにそのまま直行。1時間ほど遅れての参加。<br>場所：[SAKE MARKET 新宿店](https://maps.app.goo.gl/xfrg5rN7yYHzjVA57)<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>kojiraさん</li></ul></details>|
-|2024.06.01|あんずさんと物々交換|エンカ|あんずさんへハイチュウを渡して、おしゃ会グッズを受け取りに。<br>場所：[未定]()|
-|2024.06.01|しおさんハピバレスペ赤からオフ|オフ会|レスぺを借りて赤から鍋パした。<br>場所：[よろずや下北沢](https://maps.app.goo.gl/sxBMFknUEKMLDtpS9)<br><details><summary>参加者</summary><ul><li>しおさん</li><li>こうほうさん</li><li>いくらどんさん</li><li>かすてらふぃさん</li><li>淀川さん</li><li>kojiraさん</li><li>たーごいるさん</li><li>ぺぇさん</li><li>SuzuNyaさん</li></ul></details>|
+|2024.06.01|あんずさんと物々交換|エンカ|あんずさんへハイチュウを渡して、おしゃ会グッズを受け取りに。<br>場所：[フタバフルーツパーラー 新宿マルイ本館店](https://maps.app.goo.gl/NF3cAz9ynAM3dmJy8)|
+|2024.06.01|しおさんハピバレスペ赤からオフ|オフ会|レスぺを借りて赤から鍋パ。風邪が蔓延して一部の方が欠席に。<br>場所：[よろずや下北沢](https://maps.app.goo.gl/sxBMFknUEKMLDtpS9)<br><details><summary>参加者</summary><ul><li>しおさん</li><li>こうほうさん</li><li>いくらどんさん</li><li>かすてらふぃさん</li><li>淀川さん</li><li>たーごいるさん</li><li>ぺぇさん</li><li>SuzuNyaさん</li></ul></details>|
 <!--
 |2024.06.15|しおじの湯|オフ会|早朝に大宮で集合。群馬の山奥にある浜平温泉へバスに乗っていく。<br>場所：[浜平温泉しおじの湯](https://maps.app.goo.gl/uQBhZBJHABfc5TKy7)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li><li>しのさん</li><li>ぽーまんさん</li><li>こうほうさん</li></ul></details>|
 |2024.06.29|横浜日本酒飲み比べ|オフ会|<br>場所：[横浜赤レンガ倉庫](https://maps.app.goo.gl/3H57SVnt1aABJr9F9)<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>kojiraさん</li><li>りらさん</li><li>おっぱぴぃさん</li></ul></details>|
