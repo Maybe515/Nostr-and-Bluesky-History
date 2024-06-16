@@ -1,6 +1,6 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <b><p>
-  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.06.07</div>
+  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.06.17</div>
 </p></b>
 
 ## 💜 Nostr
@@ -25,8 +25,9 @@
 |2024.05.31|SAKE MARKET|オフ会|仕事終わりにそのまま直行。1時間ほど遅れての参加。<br>場所：[SAKE MARKET 新宿店](https://maps.app.goo.gl/xfrg5rN7yYHzjVA57)<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>kojiraさん</li></ul></details>|
 |2024.06.01|あんずさんと物々交換|エンカ|あんずさんへハイチュウを渡して、おしゃ会グッズを受け取りに。<br>場所：[フタバフルーツパーラー 新宿マルイ本館店](https://maps.app.goo.gl/NF3cAz9ynAM3dmJy8)|
 |2024.06.01|しおさんハピバレスペ赤からオフ|オフ会|レスぺを借りて赤から鍋パ。風邪が蔓延して一部の方が欠席になったけど何事もなく無事に開催できた。<br>場所：[よろずや下北沢](https://maps.app.goo.gl/sxBMFknUEKMLDtpS9)<br><details><summary>参加者</summary><ul><li>しおさん</li><li>いくらどんさん</li><li>かすてらふぃさん</li><li>淀川さん</li><li>たーごいるさん</li><li>ぺぇさん</li><li>こうほうさん</li><li>SuzuNyaさん</li></ul></details>|
+|2024.06.15|しおじの湯|オフ会|早朝に大宮で集合。新町からしおじの湯行きのバスに乗っていく。<br>所要時間：片道約4時間（電車1h＋バス3h）<br>場所：[浜平温泉しおじの湯](https://maps.app.goo.gl/uQBhZBJHABfc5TKy7)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li><li>しのさん</li><li>ぽーまんさん</li></ul></details>|
+|2024.06.15|鳥貴族オフ|オフ会|しおじの湯帰りにそのまま新宿へ。新宿に着いたのが20時半過ぎだったので参加できず、二次会での参加となった。<br>場所：[焼鳥居酒屋 鶏闘士 別館](https://maps.app.goo.gl/TqWwPJpsHwL2QX3D6)<br><details><summary>参加者</summary><ul><li>おっぱぴぃさん</li><li>しおさん</li><li>かすてらふぃさん</li><li>kaijiさん</li><li>いかのあしさん</li></ul></details>|
 <!--
-|2024.06.15|しおじの湯|オフ会|早朝に大宮で集合。群馬の山奥にある浜平温泉へバスに乗っていく。<br>場所：[浜平温泉しおじの湯](https://maps.app.goo.gl/uQBhZBJHABfc5TKy7)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li><li>しのさん</li><li>ぽーまんさん</li><li>こうほうさん</li></ul></details>|
 |2024.06.29|横浜日本酒飲み比べ|オフ会|<br>場所：[横浜赤レンガ倉庫](https://maps.app.goo.gl/3H57SVnt1aABJr9F9)<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>kojiraさん</li><li>りらさん</li><li>おっぱぴぃさん</li></ul></details>|
 |2024.07.20|第5回日本酒を呑む会|オフ会|<br>場所：[純米酒専門YATA？]()<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>kojiraさん</li></ul></details>|
 -->
@@ -34,7 +35,6 @@
 <details>
   <summary>今後の予定</summary>
   <ul>
-    <li>【2024.06.15】　しおじの湯オフ</li>
     <li>【2024.06.29】　YOKOHAMA SAKE SQUARE 2024</li>
     <li>【2024.07.13~15】　紀伊半島バス旅</li>
     <li>【2024.07.20】　第5回日本酒を飲む会</li>
