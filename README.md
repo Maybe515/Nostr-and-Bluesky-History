@@ -29,7 +29,9 @@
 |2024.06.15|鳥貴族オフ|オフ会|しおじの湯帰りにそのまま新宿へ。新宿に着いたのが20時半過ぎだったので参加できず、二次会だけの参加となった。<br>場所：[焼鳥居酒屋 鶏闘士 別館](https://maps.app.goo.gl/TqWwPJpsHwL2QX3D6)<br><details><summary>参加者</summary><ul><li>おっぱぴぃさん</li><li>しおさん</li><li>かすてらふぃさん</li><li>kaijiさん</li><li>いかのあしさん</li></ul></details>|
 |2024.06.29|横浜日本酒飲み比べ|オフ会|YOKOHAMA SAKE SQUARE 2024に参加。<br>場所：[横浜赤レンガ倉庫](https://maps.app.goo.gl/3H57SVnt1aABJr9F9)<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>りらさん</li><li>おっぱぴぃさん</li></ul></details>|
 <!--
+|2024.07.13~<br>2024.07.15|紀伊半島バス旅|オフ会|<br>場所：<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
 |2024.07.20|第5回日本酒を呑む会|オフ会|<br>場所：[純米酒専門YATA？]()<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>kojiraさん</li></ul></details>|
+|2024.08.10|りらさん帰省オフ in 名古屋|オフ会|<br>場所：[未定]()<br><details><summary>参加者</summary><ul><li>りらさん</li><li>電子馬さん</li><li></li></ul></details>|
 -->
 <br>
 <details>
