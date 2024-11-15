@@ -1,6 +1,6 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <b><p>
-  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2024.08.19</div>
+  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2024.11.15</div>
 </p></b>
 
 ## 💜 Nostr
@@ -30,12 +30,13 @@
 |2024.06.29|横浜日本酒飲み比べ|オフ会|YOKOHAMA SAKE SQUARE 2024に参加。<br>場所：[横浜赤レンガ倉庫](https://maps.app.goo.gl/3H57SVnt1aABJr9F9)<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>りらさん</li><li>おっぱぴぃさん</li></ul></details>|
 |2024.07.13~<br>2024.07.14|奈良・三重 長距離バス旅オフ|オフ会|'25年3月末で松阪熊野線が廃止されるので完乗しに三交南紀へ。道中、八木新宮線の完乗や那智勝浦、松阪祇園まつりを満喫した。<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
 |2024.07.20|第5回日本酒を呑む会|オフ会|マボカリ食べたり日本酒を呑んだり。<br>場所：[純米酒専門YATA 新宿三丁目店]()<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>kojiraさん</li></ul></details>|
+|2024.11.09|あんずと会う|オフ会|あんずにお土産渡して、ポケモンストア行ったりご飯に行ったり。<br>場所：[ポケモンストア]()<br><details><summary>参加者</summary><ul><li>あんず</li></details>|
+|2024.11.09|今半オフ|オフ会|みんなで贅沢コースを堪能。<br>場所：[人形町 今半]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇ</li><li>しおさん</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>よそいちさん</li><li>りらさん</li></details>|
 <br>
 <details>
   <summary>今後の予定</summary>
   <ul>
-    <li>【2024.10.12】　神の演奏会</li>
-    <li>【2024.11.??】　今半オフ</li>
+    <li>特になし</li>
   </ul>
 </details>
 <br>
