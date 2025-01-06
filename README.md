@@ -1,6 +1,6 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <b><p>
-  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2025.1.1</div>
+  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2025.1.6</div>
 </p></b>
 
 ## 💜 Nostr
@@ -34,7 +34,7 @@
 |2024.11.09|今半オフ|オフ会|みんなで贅沢コースを堪能。<br>場所：[人形町 今半]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇ</li><li>しおさん</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>よそいちさん</li><li>りらさん</li></details>|
 |2024.12.29|りらさんとランチ|オフ会|グラングリーン大阪でランチ。<br>場所：[グラングリーン大阪]()<br><details><summary>参加者</summary><ul><li>りらさん</li></details>|
 |2025.01.03|音ゲーオフ|オフ会|EZ2DJをやりにWGCへ。他にもPIUやbeatmaniaⅢを楽しんだ。<br>場所：[WGC -World Game Circus-](https://maps.app.goo.gl/XxXRTEFCvVj5Ntd67) & [WGC APPEND](https://maps.app.goo.gl/TKh1orM4fjnoQVn17)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></details>|
-|2025.01.04|旦那(しおさん)とランチ|オフ会|ｲｹﾌﾞｸﾖで旦那とランチ。前々から行きたかったOMSへ。その後ミスドに行った。<br>場所：[OMS 池袋PARCO]()<br><details><summary>参加者</summary><ul><li>旦那(しおさん)</li></details>|
+|2025.01.04|旦那（しおさん）とランチ|オフ会|ｲｹﾌﾞｸﾖで旦那とランチ。前々から行きたかったOMSへ。その後ミスドに行った。<br>場所：[OMS 池袋PARCO]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></details>|
 <br>
 <details>
   <summary>今後の予定</summary>
