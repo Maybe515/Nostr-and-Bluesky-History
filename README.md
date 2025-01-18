@@ -35,8 +35,8 @@
 |2024.12.29|りらさんとランチ|オフ会|グラングリーン大阪でランチ。<br>場所：[グラングリーン大阪]()<br><details><summary>参加者</summary><ul><li>りらさん</li></details>|
 |2025.01.03|音ゲーオフ|オフ会|EZ2DJをやりにWGCへ。他にもPIUやbeatmaniaⅢ、3Sを楽しんだ。<br>場所：[WGC -World Game Circus-](https://maps.app.goo.gl/XxXRTEFCvVj5Ntd67) & [WGC APPEND](https://maps.app.goo.gl/TKh1orM4fjnoQVn17)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></details>|
 |2025.01.04|旦那（しおさん）とランチ|オフ会|ｲｹﾌﾞｸﾖで旦那とランチ。前々から行きたかったOMSへ。そのあとミスドに行った。<br>場所：[OMS 池袋PARCO]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></details>|
+|2025.01.18|年初め焼き鳥の会|オフ会|焼き鳥前に代々木八幡宮で初詣。その後、和菓子を食べて茶シバいた。<br>焼き鳥は文句なしに美味しくて、串以外も美味しかった。<br>場所：[佐五右衛門]()<br><details><summary>参加者</summary><ul><li>しおんさん</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>たーごいるさん</li><li>らむさん</li><li>SuzuNyaさん</li><li>かにゾーさん</li></details>|
 <!--
-|2025.01.18|年初め焼き鳥の会|オフ会|<br>場所：[佐五右衛門]()<br><details><summary>参加者</summary><ul><li>しおんさん</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>たーごいるさん</li><li>らむさん</li><li>SuzuNyaさん</li><li>かにゾーさん</li></details>|
 |2025.01.25|火鍋にパンダ沈めるやつ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>kaijiさん</li><li>なちやさん</li></details>|
 -->
 <br>
