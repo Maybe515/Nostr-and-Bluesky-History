@@ -36,14 +36,7 @@
 |2025.01.03|音ゲーオフ|オフ会|EZ2DJをやりにWGCへ。他にもPIUやbeatmaniaⅢ、3Sを楽しんだ。<br>場所：[WGC -World Game Circus-](https://maps.app.goo.gl/XxXRTEFCvVj5Ntd67) & [WGC APPEND](https://maps.app.goo.gl/TKh1orM4fjnoQVn17)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></details>|
 |2025.01.04|旦那（しおさん）とランチ|オフ会|ｲｹﾌﾞｸﾖで旦那とランチ。前々から行きたかったOMSへ。そのあとミスドに行った。<br>場所：[OMS 池袋PARCO]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></details>|
 |2025.01.18|年初め焼き鳥の会|オフ会|焼き鳥前に代々木八幡宮で初詣。その後、和菓子を食べながら茶をシバいた。<br>焼き鳥は文句なしに美味しくて、串以外も美味しかった。<br>場所：[佐五右衛門]()<br><details><summary>参加者</summary><ul><li>しおんさん</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>たーごいるさん</li><li>らむさん</li><li>SuzuNyaさん</li><li>かにゾーさん</li></details>|
-|2025.01.25|火鍋にパンダ沈めるやつ|オフ会|パンダを火鍋にぶち込んだ。まともに火鍋を食べたことがなかったので経験できてよかった。<br>食後にクレープも食べにいった。<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>kaijiさん</li><li>なちやさん</li></details>|
-<br>
-<details>
-  <summary>今後の予定</summary>
-  <ul>
-    <li>特になし</li>
-  </ul>
-</details>
+|2025.01.25|火鍋にパンダ沈めるやつ|オフ会|パンダを火鍋にぶち込んだ。まともに火鍋を食べたことがなかったので経験できてよかった。<br>食後にクレープも食べにいった。<br>場所：[熊猫火鍋 池袋店]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>kaijiさん</li><li>なちやさん</li></details>|
 <br>
 
 ## 💙 Bluesky
@@ -55,10 +48,3 @@
 |2024.02.21|Bluesky / AT Protocol勉強会#3|勉強会|オンライン参加|
 |2024.04.13|Bluesky Meetup in Tokyo Vol.2|交流会|オンライン参加|
 |2024.04.14|Bluesky Meetup in Osaka Vol.2|交流会|オンライン参加|
-<br>
-<details>
-  <summary>今後の予定</summary>
-  <ul>
-    <li>特になし</li>
-  </ul>
-</details>
