@@ -1,6 +1,6 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <b><p>
-  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2025.1.18</div>
+  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2025.2.14</div>
 </p></b>
 
 ## 💜 Nostr
