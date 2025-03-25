@@ -37,8 +37,8 @@
 |2025.01.04|旦那（しおさん）とランチ|エンカ|ｲｹﾌﾞｸﾖで旦那とランチ。前々から行きたかったOMSへ。そのあとミスドに行った。<br>場所：[OMS 池袋PARCO]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 |2025.01.18|年初め焼き鳥の会|オフ会|焼き鳥前に代々木八幡宮で初詣。その後、和菓子を食べながら茶をシバいた。<br>焼き鳥は文句なしに美味しくて、串以外も美味しかった。<br>場所：[佐五右衛門]()<br><details><summary>参加者</summary><ul><li>しおんさん</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>たーごいるさん</li><li>らむさん</li><li>SuzuNyaさん</li><li>かにゾーさん</li></ul></details>|
 |2025.01.25|火鍋にパンダ沈めるやつ|オフ会|パンダを火鍋にぶち込んだ。まともに火鍋を食べたことがなかったので経験できてよかった。<br>食後にクレープも食べにいった。<br>場所：[熊猫火鍋 池袋店]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>kaijiさん</li><li>なちやさん</li></ul></details>|
-|2025.03.09|コアキ部Vol.1|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
-|2025.03.14~<br>2025.03.15|コアキ部Vol.2|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li></ul></details>|
+|2025.03.09|コアキ部Vol.1|オンラインマルチ|ゲーム：Core Keeper<br>初マルチ（Steamサーバーでホスティング）。基本装備を整えつつ、辺りを散策した。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.03.14~<br>2025.03.15|コアキ部Vol.2|オンラインマルチ|ゲーム：Core Keeper<br>グラーチを討伐。その後粘土の世界や忘却の土地を探索した。<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li></ul></details>|
 |2025.03.16|コアキ部Vol.3|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li><li>higeさん</li></ul></details>|
 |2025.03.23~<br>2025.03.24|コアキ部Vol.4|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li><li>こうほうさん</li></ul></details>|
 <!--
