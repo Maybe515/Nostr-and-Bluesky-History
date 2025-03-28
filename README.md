@@ -41,8 +41,8 @@
 |2025.03.14~<br>2025.03.15|コアキ部Vol.2|オンラインマルチ|ゲーム：Core Keeper<br>Dedicated Serverを立てて、いつでもプレイ可能な環境に。<br>グラーチを討伐。その後粘土の世界や忘却の土地を探索した。<br>終わりがけにキングスライムも討伐した。<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li></ul></details>|
 |2025.03.16|コアキ部Vol.3|オンラインマルチ|ゲーム：Core Keeper<br>スズや鉄の鉱石を集めつつ、ゴームを討伐。<br>マルガズへ挑もうとするも出現条件が変わらず次回持ち越しとなった。<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li><li>higeさん</li></ul></details>|
 |2025.03.23~<br>2025.03.24|コアキ部Vol.4|オンラインマルチ|ゲーム：Core Keeper<br>マルガズを討伐し、壁の更に向こう側へ。<br>新エリアを探索しつつ、拠点を整備した。自動伐採機も整備。<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li><li>こうほうさん</li></ul></details>|
+|2025.03.27~<br>2025.03.28|狩猟部Vol.1|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 <!--
-|2025.03.27|狩猟部Vol.1|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.03.30？|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li><li>こうほうさん</li></ul></details>|
 |2025.04.11|水族館オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li></details>|
 |2025.04.11|手羽先オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>電子馬さん</li><li>darashiさん</li><li>しのさん</li></details>|
