@@ -1,6 +1,6 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <b><p>
-  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2025.2.14</div>
+  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2025.4.1</div>
 </p></b>
 
 ## 💜 Nostr
@@ -44,6 +44,7 @@
 |2025.03.27 23:00~<br>2025.03.28 01:40|狩猟部Vol.1|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.03.28 23:00~<br>2025.03.29 03:15|狩猟部Vol.2|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 <!--
+|2025.04.04 21:00~<br>2025.04.?? 03:15|狩猟部Vol.3|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.11|水族館オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li></details>|
 |2025.04.11|手羽先オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>電子馬さん</li><li>darashiさん</li><li>しのさん</li></details>|
