@@ -41,10 +41,10 @@
 |2025.03.14 21:00~<br>2025.03.15 03:30|コアキ部Vol.2|オンラインマルチ|ゲーム：Core Keeper<br>Dedicated Serverを立てて、いつでもプレイ可能な環境に。<br>グラーチを討伐。その後粘土の世界や忘却の土地を探索した。<br>終わりがけにキングスライムも討伐した。<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li></ul></details>|
 |2025.03.16|コアキ部Vol.3|オンラインマルチ|ゲーム：Core Keeper<br>スズや鉄の鉱石を集めつつ、ゴームを討伐。<br>マルガズへ挑もうとするも出現条件が変わらず次回持ち越しとなった。<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li><li>higeさん</li></ul></details>|
 |2025.03.23 13:30~<br>2025.03.24 0:15|コアキ部Vol.4|オンラインマルチ|ゲーム：Core Keeper<br>マルガズを討伐し、壁の更に向こう側へ。<br>新エリアを探索しつつ、拠点を整備した。自動伐採機も整備。<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li><li>こうほうさん</li></ul></details>|
-|2025.03.27 23:00~<br>2025.03.28 01:40|狩猟部Vol.1|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
-|2025.03.28 23:00~<br>2025.03.29 03:15|狩猟部Vol.2|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
-|2025.04.04 22:30~<br>2025.04.05 03:30|狩猟部Vol.3|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
-|2025.04.05 23:00~<br>2025.04.06 04:00|狩猟部Vol.4|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.03.27 23:00~<br>2025.03.28 01:40|狩猟部Vol.1|オンラインマルチ|ゲーム：MHWs<br>ゆとさんにキャリーしてもらってHR3になった。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.03.28 23:00~<br>2025.03.29 03:15|狩猟部Vol.2|オンラインマルチ|ゲーム：MHWs<br>ゆとさんにキャリーしてもらってHR5になった。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.04.04 22:30~<br>2025.04.05 03:30|狩猟部Vol.3|オンラインマルチ|ゲーム：MHWs<br>ゆとさんをCh4-2までキャリーした。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.04.05 23:00~<br>2025.04.06 04:00|狩猟部Vol.4|オンラインマルチ|ゲーム：MHWs<br>サイドミッションをこなしつつ、Ch5-1までキャリーしてタマミツネを一緒に狩った。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 <!--
 |2025.04.13 21:00~<br>2025.04.?? 00:00|狩猟部Vol.5|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
