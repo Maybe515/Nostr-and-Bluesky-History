@@ -43,8 +43,10 @@
 |2025.03.23 13:30~<br>2025.03.24 0:15|コアキ部Vol.4|オンラインマルチ|ゲーム：Core Keeper<br>マルガズを討伐し、壁の更に向こう側へ。<br>新エリアを探索しつつ、拠点を整備した。自動伐採機も整備。<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li><li>こうほうさん</li></ul></details>|
 |2025.03.27 23:00~<br>2025.03.28 01:40|狩猟部Vol.1|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.03.28 23:00~<br>2025.03.29 03:15|狩猟部Vol.2|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.04.04 22:30~<br>2025.04.05 03:30|狩猟部Vol.3|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.04.05 23:00~<br>2025.04.06 04:00|狩猟部Vol.4|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 <!--
-|2025.04.04 21:00~<br>2025.04.?? 03:15|狩猟部Vol.3|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.04.13 21:00~<br>2025.04.?? 00:00|狩猟部Vol.5|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.11|水族館オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li></details>|
 |2025.04.11|手羽先オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>電子馬さん</li><li>darashiさん</li><li>しのさん</li></details>|
