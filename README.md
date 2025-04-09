@@ -50,6 +50,8 @@
 |2025.04.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.11|水族館オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li></details>|
 |2025.04.11|手羽先オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>電子馬さん</li><li>darashiさん</li><li>しのさん</li></details>|
+|2025.04.27|秋吉オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li></details>|
+|2025.04.28？|あんずと飲む|エンカ|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>あんず</li></ul></details>|
 |2025.06|休日ダーツオフVol.1|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li><li>あんずさん？</li></details>|
 -->
 <br>
