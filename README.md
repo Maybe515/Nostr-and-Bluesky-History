@@ -45,10 +45,10 @@
 |2025.03.28 23:00~<br>2025.03.29 03:15|狩猟部Vol.2|オンラインマルチ|ゲーム：MHWs<br>ゆとさんにキャリーしてもらってHR5になった。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.04 22:30~<br>2025.04.05 03:30|狩猟部Vol.3|オンラインマルチ|ゲーム：MHWs<br>ゆとさんをCh4-2までキャリーした。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.05 23:00~<br>2025.04.06 04:00|狩猟部Vol.4|オンラインマルチ|ゲーム：MHWs<br>サイドミッションをこなしつつ、Ch5-1までキャリーしてタマミツネを一緒に狩った。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
-|2025.04.11|水族館オフ|オフ会|<br>場所：[名古屋港水族館]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>darashiさん</li><li>しのさん</li></details>|
-|2025.04.11|手羽先オフ|オフ会|<br>場所：[風来坊 名駅5丁目店]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>電子馬さん</li><li>darashiさん</li><li>しのさん</li></details>|
-|2025.04.12|ACグランドオフ|オフ会|PIUをやりにACグランドへ。<br>調整中でお目当ての筐体はできなかったが、代わりに別の足ゲーや他ゲーを楽しんだ。<br>場所：[A.C.GRAND]()<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></details>|
-|2025.04.12|ゆとさんと茶シバき|オフ会|ミトアプ後のゆとさんと喫茶店で茶シバいた。<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>kaijiさん</li><li>ろーさん</li></details>|
+|2025.04.11|水族館オフ|オフ会|<br>場所：[名古屋港水族館]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>darashiさん</li><li>しのさん</li></ul></details>|
+|2025.04.11|手羽先オフ|オフ会|<br>場所：[風来坊 名駅5丁目店]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>電子馬さん</li><li>darashiさん</li><li>しのさん</li></ul></details>|
+|2025.04.12|ACグランドオフ|オフ会|PIUをやりにACグランドへ。<br>調整中でお目当ての筐体はできなかったが、代わりに別の足ゲーや他ゲーを楽しんだ。<br>場所：[A.C.GRAND]()<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
+|2025.04.12|ゆとさんと茶シバき|オフ会|ミトアプ後のゆとさんと喫茶店で茶シバいた。<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>kaijiさん</li><li>ろーさん</li></ul></details>|
 |2025.04.18 23:20~<br>2025.04.19 05:00|狩猟部Vol.5|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 <!--
 |2025.04.27|秋吉オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>りらさん</li><li>uchijoさん</li><li>kojiraさん</li><li>淀川さん？</li></ul></details>|
