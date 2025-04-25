@@ -49,11 +49,12 @@
 |2025.04.11|手羽先オフ|オフ会|<br>場所：[風来坊 名駅5丁目店]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>電子馬さん</li><li>darashiさん</li><li>しのさん</li></ul></details>|
 |2025.04.12|ACグランドオフ|オフ会|PIUをやりにACグランドへ。<br>調整中でお目当ての筐体はできなかったが、代わりに別の足ゲーや他ゲーを楽しんだ。<br>場所：[A.C.GRAND]()<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
 |2025.04.12|ゆとさんと茶シバき|オフ会|ミトアプ後のゆとさんと喫茶店で茶シバいた。<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>kaijiさん</li><li>ろーさん</li></ul></details>|
-|2025.04.18 23:20~<br>2025.04.19 05:00|狩猟部Vol.5|オンラインマルチ|ゲーム：MHWilds<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.04.18 23:20~<br>2025.04.19 05:00|狩猟部Vol.5|オンラインマルチ|ゲーム：MHWilds<br>Chp.6-1までキャリーした。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 <!--
-|2025.04.27|秋吉オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>りらさん</li><li>uchijoさん</li><li>kojiraさん</li><li>淀川さん？</li></ul></details>|
+|2025.04.27|秋吉オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>りらさん</li><li>uchijoさん</li><li>kojiraさん</li><li>淀川さん</li></ul></details>|
 |2025.04.29|旦那（しおさん）とランチ|エンカ|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 |2025.04.29|あんずと飲む|エンカ|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>あんず</li><li>kaijiさん</li><li>おっぱぴぃさん</li></ul></details>|
+|2025.05.10|ドカポンマルチ|オンラインマルチ|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>kaijiさん</li><li>淀川さん</li></ul></details>|
 |2025.05.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.06|休日ダーツオフVol.1|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li><li>あんずさん？</li></ul></details>|
 |2025.07.12~07.14|北海道|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
