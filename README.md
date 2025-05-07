@@ -29,14 +29,14 @@
 |2024.06.15|鳥貴族オフ|オフ会|しおじの湯帰りにそのまま新宿へ。<br>新宿に着いたのが20時半過ぎだったので参加できず二次会だけの参加となった。<br>場所：[焼鳥居酒屋 鶏闘士 別館](https://maps.app.goo.gl/TqWwPJpsHwL2QX3D6)<br><details><summary>参加者</summary><ul><li>おっぱぴぃさん</li><li>しおさん</li><li>かすてらふぃさん</li><li>kaijiさん</li><li>いかのあしさん</li></ul></details>|
 |2024.06.29|横浜日本酒飲み比べ|オフ会|YOKOHAMA SAKE SQUARE 2024に参加。<br>場所：[横浜赤レンガ倉庫](https://maps.app.goo.gl/3H57SVnt1aABJr9F9)<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>りらさん</li><li>おっぱぴぃさん</li></ul></details>|
 |2024.07.13~<br>2024.07.14|奈良・三重 長距離バス旅オフ|オフ会|'25年3月末で松阪熊野線が廃止されるので完乗しに三交南紀へ。道中、八木新宮線の完乗や那智勝浦、松阪祇園まつりを満喫した。<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
-|2024.07.20|第5回日本酒を呑む会|オフ会|マボカリ食べたり、日本酒を呑んだり。<br>場所：[純米酒専門YATA 新宿三丁目店]()<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>kojiraさん</li></ul></details>|
-|2024.11.09|あんずと会う|エンカ|あんずにお土産渡して、ポケモンストア行ったりご飯に行ったり。<br>場所：[ポケモンストア]()<br><details><summary>参加者</summary><ul><li>あんず</li></ul></details>|
-|2024.11.09|今半オフ|オフ会|みんなで贅沢コースを堪能。<br>場所：[人形町 今半]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇ</li><li>しおさん</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>よそいちさん</li><li>りらさん</li></ul></details>|
-|2024.12.29|りらさんとランチ|エンカ|グラングリーン大阪でランチ。<br>場所：[グラングリーン大阪]()<br><details><summary>参加者</summary><ul><li>りらさん</li></ul></details>|
+|2024.07.20|第5回日本酒を呑む会|オフ会|マボカリ食べたり、日本酒を呑んだり。<br>場所：[純米酒専門YATA 新宿三丁目店](https://maps.app.goo.gl/JyPCQZA3uUZoHfAL8)<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>kojiraさん</li></ul></details>|
+|2024.11.09|あんずと会う|エンカ|あんずにお土産渡して、ポケモンストア行ったりご飯に行ったり。<br>場所：[ポケモンストア 東京駅店](https://maps.app.goo.gl/Lm45Yg68bBR3KvhD7)<br><details><summary>参加者</summary><ul><li>あんず</li></ul></details>|
+|2024.11.09|今半オフ|オフ会|みんなで贅沢コースを堪能。<br>場所：[人形町今半 人形町本店](https://maps.app.goo.gl/dwF872pEu9jjiFnt5)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇ</li><li>しおさん</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>よそいちさん</li><li>りらさん</li></ul></details>|
+|2024.12.29|りらさんとランチ|エンカ|グラングリーン大阪でランチ。<br>場所：[グラングリーン大阪](https://maps.app.goo.gl/VN9bSXbaiWrEdrbX6)<br><details><summary>参加者</summary><ul><li>りらさん</li></ul></details>|
 |2025.01.03|音ゲーオフ|オフ会|EZ2DJをやりにWGCへ。他にもPIUやbeatmaniaⅢ、3Sを楽しんだ。<br>場所：[WGC -World Game Circus-](https://maps.app.goo.gl/XxXRTEFCvVj5Ntd67) & [WGC APPEND](https://maps.app.goo.gl/TKh1orM4fjnoQVn17)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
-|2025.01.04|旦那（しおさん）とランチ|エンカ|ｲｹﾌﾞｸﾖで旦那とランチ。前々から行きたかったOMSへ。そのあとミスドに行った。<br>場所：[OMS 池袋PARCO]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
-|2025.01.18|年初め焼き鳥の会|オフ会|焼き鳥前に代々木八幡宮で初詣。その後、和菓子を食べながら茶をシバいた。<br>焼き鳥は文句なしに美味しくて、串以外も美味しかった。<br>場所：[佐五右衛門]()<br><details><summary>参加者</summary><ul><li>しおんさん</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>たーごいるさん</li><li>らむさん</li><li>SuzuNyaさん</li><li>かにゾーさん</li></ul></details>|
-|2025.01.25|火鍋にパンダ沈めるやつ|オフ会|パンダを火鍋にぶち込んだ。まともに火鍋を食べたことがなかったので経験できてよかった。<br>食後にクレープも食べにいった。<br>場所：[熊猫火鍋 池袋店]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>kaijiさん</li><li>なちやさん</li></ul></details>|
+|2025.01.04|旦那（しおさん）とランチ|エンカ|ｲｹﾌﾞｸﾖで旦那とランチ。前々から行きたかったOMSへ。そのあとミスドに行った。<br>場所：[OMS 池袋PARCO](https://maps.app.goo.gl/MLkmceoj89kDtpQU6)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
+|2025.01.18|年初め焼き鳥の会|オフ会|焼き鳥前に代々木八幡宮で初詣。その後、和菓子を食べながら茶をシバいた。<br>焼き鳥は文句なしに美味しくて、串以外も美味しかった。<br>場所：[佐五右衛門](https://maps.app.goo.gl/hT92xyiEDZGsLyo58)<br><details><summary>参加者</summary><ul><li>しおんさん</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>たーごいるさん</li><li>らむさん</li><li>SuzuNyaさん</li><li>かにゾーさん</li></ul></details>|
+|2025.01.25|火鍋にパンダ沈めるやつ|オフ会|パンダを火鍋にぶち込んだ。まともに火鍋を食べたことがなかったので経験できてよかった。<br>食後にクレープも食べにいった。<br>場所：[熊猫火鍋 池袋店](https://maps.app.goo.gl/A5Wdb8ZgN6LFvYE98)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>淀川さん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>kaijiさん</li><li>なちやさん</li></ul></details>|
 |2025.03.09|コアキ部Vol.1|オンラインマルチ|ゲーム：Core Keeper<br>初マルチ(Steamサーバーでホスティング)。基本装備を整えつつ、辺りを散策した。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.03.14 21:00~<br>2025.03.15 03:30|コアキ部Vol.2|オンラインマルチ|ゲーム：Core Keeper<br>Dedicated Serverを立てて、いつでもプレイ可能な環境に。<br>グラーチを討伐。その後粘土の世界や忘却の土地を探索した。<br>終わりがけにキングスライムも討伐した。<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li></ul></details>|
 |2025.03.16|コアキ部Vol.3|オンラインマルチ|ゲーム：Core Keeper<br>スズや鉄の鉱石を集めつつ、ゴームを討伐。<br>マルガズへ挑もうとするも出現条件が変わらず次回持ち越しとなった。<details><summary>参加者</summary><ul><li>utopiaさん</li><li>スクさん</li><li>higeさん</li></ul></details>|
@@ -45,18 +45,19 @@
 |2025.03.28 23:00~<br>2025.03.29 03:15|狩猟部Vol.2|オンラインマルチ|ゲーム：MHWs<br>ゆとさんにキャリーしてもらってHR5になった。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.04 22:30~<br>2025.04.05 03:30|狩猟部Vol.3|オンラインマルチ|ゲーム：MHWs<br>ゆとさんをCh4-2までキャリーした。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.05 23:00~<br>2025.04.06 04:00|狩猟部Vol.4|オンラインマルチ|ゲーム：MHWs<br>サイドミッションをこなしつつ、Ch5-1までキャリーしてタマミツネを一緒に狩った。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
-|2025.04.11|水族館オフ|オフ会|<br>場所：[名古屋港水族館]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>darashiさん</li><li>しのさん</li></ul></details>|
-|2025.04.11|手羽先オフ|オフ会|<br>場所：[風来坊 名駅5丁目店]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>電子馬さん</li><li>darashiさん</li><li>しのさん</li></ul></details>|
-|2025.04.12|ACグランドオフ|オフ会|PIUをやりにACグランドへ。<br>調整中でお目当ての筐体はできなかったが、代わりに別の足ゲーや他ゲーを楽しんだ。<br>場所：[A.C.GRAND]()<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
-|2025.04.12|ゆとさんと茶シバき|オフ会|ミトアプ後のゆとさんと喫茶店で茶シバいた。<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>kaijiさん</li><li>ろーさん</li></ul></details>|
-|2025.04.18 23:20~<br>2025.04.19 05:00|狩猟部Vol.5|オンラインマルチ|ゲーム：MHWilds<br>Chp.6-1までキャリーした。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.04.11|水族館オフ|オフ会|後半休を使って水族館オフに突撃。展示を楽しみつつイルカショーも楽しんだ。<br>手羽先オフまで一時解散、ゆとこじらとジャズ喫茶へ。茶シバいた後に立飲み居酒屋でだらししのと合流。プチ0次会をした後に風来坊へ向かった。<br>場所：[名古屋港水族館](https://maps.app.goo.gl/Z1axz26YYxPrZxYr6)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>darashiさん</li><li>しのさん</li></ul></details>|
+|2025.04.11|手羽先オフ|オフ会|十数年ぶりぐらいに店舗で手羽先を喰らった。<br>場所：[風来坊 名駅5丁目店](https://maps.app.goo.gl/79BRzTc7g6bgvi5C7)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>utopiaさん</li><li>電子馬さん</li><li>darashiさん</li><li>しのさん</li></ul></details>|
+|2025.04.12|ACグランドオフ|オフ会|PIUをやりにACグランドへ。<br>調整中でお目当ての筐体はできなかったが、代わりに別の足ゲーや他ゲーを楽しんだ。<br>場所：[A.C.GRAND](https://maps.app.goo.gl/9E6Jax9ZZEL1r2Uq9)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
+|2025.04.12|ゆとさんと茶シバき|オフ会|ミトアプ後のゆとさんと喫茶店で茶をシバいた。<br>場所：[キャラバン](https://maps.app.goo.gl/ocV8oHAvdfS9whPH8)<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>kaijiさん</li><li>ろーさん</li></ul></details>|
+|2025.04.18 23:20~<br>2025.04.19 05:00|狩猟部Vol.5|オンラインマルチ|ゲーム：MHWs<br>Chp.6-1までキャリーした。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+|2025.04.27|秋吉オフ|オフ会|ゆとぴ思い出の秋吉へ。<br>場所：[焼き鳥の名門秋吉 銀座店](https://maps.app.goo.gl/XeP2VgYtgRz4WUwm8)<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>uchijoさん</li><li>kojiraさん</li><li>淀川さん</li></ul></details>|
+|2025.04.29|旦那（しおさん）と山芋|エンカ|旦那とランチ。お散歩がてら東京タワーや芝公園の方まで歩いた。<br>場所：[山芋の多い料理店 麻布十番店](https://maps.app.goo.gl/BeywGK6RLD9r1Rt38)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
+|2025.04.29|あんずおぱかいじと飲む|エンカ|あんずと飲み。そのあとトリキで二次会。<br>場所：[九州情熱屋](https://maps.app.goo.gl/i5sh4hzSfxqNeC2HA)<br><details><summary>参加者</summary><ul><li>あんず</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>旦那（しおさん）</li></ul></details>|
 <!--
-|2025.04.27|秋吉オフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>りらさん</li><li>uchijoさん</li><li>kojiraさん</li><li>淀川さん</li></ul></details>|
-|2025.04.29|旦那（しおさん）とランチ|エンカ|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
-|2025.04.29|あんずと飲む|エンカ|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>あんず</li><li>kaijiさん</li><li>おっぱぴぃさん</li></ul></details>|
-|2025.05.10|ドカポンマルチ|オンラインマルチ|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>kaijiさん</li><li>淀川さん</li></ul></details>|
+|2025.05.10|ドカポンマルチ|オンラインマルチ|ゲーム：ドカポン 怒りの剣<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>おっぱぴぃさん</li><li>淀川さん</li></ul></details>|
 |2025.05.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
-|2025.06|休日ダーツオフVol.1|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li><li>あんずさん？</li></ul></details>|
+|2025.06.07|北京ダックオフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>淀川さん</li><li>シトラス（こうほう）さん</li></ul></details>|
+|2025.06.08|休日ダーツオフVol.1|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li><li>あんずさん？</li></ul></details>|
 |2025.07.12~07.14|北海道|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
 -->
 <br>
