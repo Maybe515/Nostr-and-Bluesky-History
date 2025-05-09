@@ -52,7 +52,7 @@
 |2025.04.18 23:20~<br>2025.04.19 05:00|狩猟部Vol.5|オンラインマルチ|ゲーム：MHWs<br>Chp.6-1までキャリーした。<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 |2025.04.27|秋吉オフ|オフ会|ゆとぴ思い出の秋吉へ。<br>場所：[焼き鳥の名門秋吉 銀座店](https://maps.app.goo.gl/XeP2VgYtgRz4WUwm8)<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>uchijoさん</li><li>kojiraさん</li><li>淀川さん</li></ul></details>|
 |2025.04.29|旦那（しおさん）と山芋|エンカ|旦那とランチ。お散歩がてら東京タワーや芝公園の方まで歩いた。<br>場所：[山芋の多い料理店 麻布十番店](https://maps.app.goo.gl/BeywGK6RLD9r1Rt38)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
-|2025.04.29|あんずおぱかいじと飲む|エンカ|あんずと飲み。そのあとトリキで二次会。<br>場所：[九州情熱屋](https://maps.app.goo.gl/i5sh4hzSfxqNeC2HA)<br><details><summary>参加者</summary><ul><li>あんず</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>旦那（しおさん）</li></ul></details>|
+|2025.04.29|あんずおぱかいじと飲む|オフ会|あんずと飲み。そのあとトリキで二次会。<br>場所：[九州情熱屋](https://maps.app.goo.gl/i5sh4hzSfxqNeC2HA)<br><details><summary>参加者</summary><ul><li>あんず</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>旦那（しおさん）</li></ul></details>|
 <!--
 |2025.05.10|ドカポンマルチ|オンラインマルチ|ゲーム：ドカポン 怒りの剣<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>おっぱぴぃさん</li><li>淀川さん</li></ul></details>|
 |2025.05.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
