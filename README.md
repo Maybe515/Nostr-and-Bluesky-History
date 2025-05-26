@@ -1,6 +1,6 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <b><p>
-  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2025.5.12</div>
+  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2025.5.26</div>
 </p></b>
 
 ## 💜 Nostr
@@ -54,11 +54,14 @@
 |2025.04.29|旦那（しおさん）と山芋|エンカ|旦那とランチ。お散歩がてら東京タワーや芝公園の方まで歩いた。<br>場所：[山芋の多い料理店 麻布十番店](https://maps.app.goo.gl/BeywGK6RLD9r1Rt38)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 |2025.04.29|あんずおぱかいじと飲む|オフ会|あんずと飲み。そのあとトリキで二次会。<br>場所：[九州情熱屋](https://maps.app.goo.gl/i5sh4hzSfxqNeC2HA)<br><details><summary>参加者</summary><ul><li>あんず</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>旦那（しおさん）</li></ul></details>|
 |2025.05.10|ドカポンマルチ|オンラインマルチ|ゲーム：ドカポン 怒りの剣<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>おっぱぴぃさん</li><li>淀川さん</li></ul></details>|
+|2025.05.23 21:00~<br>2025.05.24 05:35|旦那とオンゲーVol.1|オンラインマルチ|ゲーム：It Takes Two<details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
+|2025.05.24 19:00~<br>2025.05.25 00:00|旦那とオンゲーVol.2|オンラインマルチ|ゲーム：It Takes Two<details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 <!--
-|2025.05.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
+
 |2025.06.07|北京ダックオフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>淀川さん</li><li>シトラス（こうほう）さん</li></ul></details>|
 |2025.06.08|休日ダーツオフVol.1|オフ会|<br>場所：[B-GARAGE 池袋西口店]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li></ul></details>|
 |2025.07.12~07.14|北海道|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
+|2025.??.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 -->
 <br>
 
