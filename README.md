@@ -57,8 +57,8 @@
 |2025.05.23 21:00~<br>2025.05.24 05:35|旦那とオンゲーVol.1|オンラインマルチ|ゲーム：It Takes Two<details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 |2025.05.24 19:00~<br>2025.05.25 00:00|旦那とオンゲーVol.2|オンラインマルチ|ゲーム：It Takes Two<details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 <!--
-|2025.06.07|北京ダックオフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>淀川さん</li><li>シトラス（こうほう）さん</li></ul></details>|
-|2025.06.08|休日ダーツオフVol.1|オフ会|<br>場所：[B-GARAGE 池袋西口店]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li></ul></details>|
+|2025.06.07|北京ダックオフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>ぺぇさん</<li>kaijiさん</li><li>シトラス（こうほう）さん</li><li>かしみろあさん</li></ul></details>|
+|2025.06.08|休日ダーツオフVol.1|オフ会|<br>場所：[B-GARAGE 池袋西口店]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>あんずさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li></ul></details>|
 |2025.06.??|旦那とオンゲーVol.3|オンラインマルチ|ゲーム：違う星のぼくら<details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 |2025.07.12~07.14|北海道|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
 |2025.??.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
