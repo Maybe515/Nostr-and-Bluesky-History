@@ -1,6 +1,6 @@
 <h1 align="center">🍀 𝑴𝒂𝒚𝒃𝒆𝟓𝟏𝟓'𝒔 𝑵𝒐𝒔𝒕𝒓 ＆ 𝑩𝒍𝒖𝒆𝒔𝒌𝒚 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 🍀</h1>
 <b><p>
-  ※PCブラウザでの閲覧を推奨しています。<div align="right">Update since　2025.6.6</div>
+  ※PCブラウザでの閲覧を推奨しています。
 </p></b>
 
 ## 💜 Nostr
@@ -56,9 +56,9 @@
 |2025.05.10|ドカポンマルチ|オンラインマルチ|ゲーム：ドカポン 怒りの剣<br><details><summary>参加者</summary><ul><li>utopiaさん</li><li>おっぱぴぃさん</li><li>淀川さん</li></ul></details>|
 |2025.05.23 21:00~<br>2025.05.24 05:35|旦那とオンゲーVol.1|オンラインマルチ|ゲーム：It Takes Two<details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 |2025.05.24 19:00~<br>2025.05.25 00:00|旦那とオンゲーVol.2|オンラインマルチ|ゲーム：It Takes Two<details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
+|2025.06.07|北京ダックオフ|オフ会|ﾍﾟｷﾝﾀﾞｯたびた。その後みなとみらい駅までお散歩した。<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>ぺぇさん</<li>kaijiさん</li><li>シトラスさん</li><li>かしみろあさん</li></ul></details>|
+|2025.06.08|休日ダーツオフVol.1|オフ会|お酒を飲みながらゆる～くダーツしたり腕相撲したりした。その後カラオケした。<br>場所：[B-GARAGE 池袋西口店]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>あんずさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li></ul></details>|
 <!--
-|2025.06.07|北京ダックオフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>ぺぇさん</<li>kaijiさん</li><li>シトラス（こうほう）さん</li><li>かしみろあさん</li></ul></details>|
-|2025.06.08|休日ダーツオフVol.1|オフ会|<br>場所：[B-GARAGE 池袋西口店]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>あんずさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li></ul></details>|
 |2025.06.??|旦那とオンゲーVol.3|オンラインマルチ|ゲーム：違う星のぼくら<details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 |2025.07.12~07.14|北海道|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
 |2025.??.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
