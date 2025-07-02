@@ -59,10 +59,7 @@
 |2025.06.07|北京ダックオフ|オフ会|ﾍﾟｷﾝﾀﾞｯたびた。その後みなとみらい駅までお散歩した。<br>場所：[北京ダック専門店 民福北京烤鴨店中華街店](https://maps.app.goo.gl/MLdp83oTyQWRJPxf9)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>ぺぇさん</<li>kaijiさん</li><li>シトラスさん</li><li>かしみろあさん</li></ul></details>|
 |2025.06.08|休日ダーツオフVol.1|オフ会|お酒を飲みながらゆる～くダーツしたり腕相撲したり。その後カラオケした。<br>場所：[B-GARAGE 池袋西口店](https://maps.app.goo.gl/HVEtXEwWBc1dNKwm6)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>あんずさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li></ul></details>|
 <!--
-|2025.06.22 14:00~|旦那とオンゲーVol.3|オンラインマルチ|ゲーム：L4D2<details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>いくらどんさん</li><li>おっぱぴぃさん</li></ul></details>|
-|2025.06.27|旦那とオンゲーVol.4|オンラインマルチ|ゲーム：違う星のぼくら<details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 |2025.07.12~07.14|北海道|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
-|2025.??.??|コアキ部Vol.5|オンラインマルチ|ゲーム：Core Keeper<details><summary>参加者</summary><ul><li>utopiaさん</li></ul></details>|
 -->
 <br>
 
