@@ -60,6 +60,7 @@
 |2025.06.08|休日ダーツオフVol.1|オフ会|お酒を飲みながらゆる～くダーツしたり腕相撲したり。その後カラオケした。<br>場所：[B-GARAGE 池袋西口店](https://maps.app.goo.gl/HVEtXEwWBc1dNKwm6)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>あんずさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li></ul></details>|
 <!--
 |2025.07.12~07.14|北海道|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
+|2025.07.14~|隠居|その他|また会う日まで。|
 -->
 <br>
 
