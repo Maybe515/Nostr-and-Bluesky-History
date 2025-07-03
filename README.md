@@ -30,8 +30,8 @@
 |2024.06.29|横浜日本酒飲み比べ|オフ会|YOKOHAMA SAKE SQUARE 2024に参加。<br>場所：[横浜赤レンガ倉庫](https://maps.app.goo.gl/3H57SVnt1aABJr9F9)<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>りらさん</li><li>おっぱぴぃさん</li></ul></details>|
 |2024.07.13~<br>2024.07.14|奈良・三重 長距離バス旅オフ|オフ会|'25年3月末で松阪熊野線が廃止されるので完乗しに三交南紀へ。道中、八木新宮線の完乗や那智勝浦、松阪祇園まつりを満喫した。<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
 |2024.07.20|第5回日本酒を呑む会|オフ会|マボカリ食べたり、日本酒を呑んだり。<br>場所：[純米酒専門YATA 新宿三丁目店](https://maps.app.goo.gl/JyPCQZA3uUZoHfAL8)<br><details><summary>参加者</summary><ul><li>かすてらふぃさん</li><li>しおさん</li><li>たーごいるさん</li><li>kojiraさん</li></ul></details>|
-|2024.11.09|あんずと会う|エンカ|あんずにお土産渡して、ポケモンストア行ったりご飯に行ったり。<br>場所：[ポケモンストア 東京駅店](https://maps.app.goo.gl/Lm45Yg68bBR3KvhD7)<br><details><summary>参加者</summary><ul><li>あんず</li></ul></details>|
-|2024.11.09|今半オフ|オフ会|みんなで贅沢コースを堪能。<br>場所：[人形町今半 人形町本店](https://maps.app.goo.gl/dwF872pEu9jjiFnt5)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇ</li><li>しおさん</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>よそいちさん</li><li>りらさん</li></ul></details>|
+|2024.11.09|あんずと会う|エンカ|あんずにお土産渡して、ポケモンストア行ったりご飯に行ったり。<br>場所：[ポケモンストア 東京駅店](https://maps.app.goo.gl/Lm45Yg68bBR3KvhD7)<br><details><summary>参加者</summary><ul><li>あんずさん</li></ul></details>|
+|2024.11.09|今半オフ|オフ会|みんなで贅沢コースを堪能。<br>場所：[人形町今半 人形町本店](https://maps.app.goo.gl/dwF872pEu9jjiFnt5)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇさん</li><li>しおさん</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>かすてらふぃさん</li><li>よそいちさん</li><li>りらさん</li></ul></details>|
 |2024.12.29|りらさんとランチ|エンカ|グラングリーン大阪でランチ。<br>場所：[グラングリーン大阪](https://maps.app.goo.gl/VN9bSXbaiWrEdrbX6)<br><details><summary>参加者</summary><ul><li>りらさん</li></ul></details>|
 |2025.01.03|音ゲーオフ|オフ会|EZ2DJをやりにWGCへ。他にもPIUやbeatmaniaⅢ、3Sを楽しんだ。<br>場所：[WGC -World Game Circus-](https://maps.app.goo.gl/XxXRTEFCvVj5Ntd67) & [WGC APPEND](https://maps.app.goo.gl/TKh1orM4fjnoQVn17)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
 |2025.01.04|旦那（しおさん）とランチ|エンカ|ｲｹﾌﾞｸﾖで旦那とランチ。前々から行きたかったOMSへ。そのあとミスドに行った。<br>場所：[OMS 池袋PARCO](https://maps.app.goo.gl/MLkmceoj89kDtpQU6)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
@@ -60,7 +60,7 @@
 |2025.06.08|休日ダーツオフVol.1|オフ会|お酒を飲みながらゆる～くダーツしたり腕相撲したり。その後カラオケした。<br>場所：[B-GARAGE 池袋西口店](https://maps.app.goo.gl/HVEtXEwWBc1dNKwm6)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>あんずさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li></ul></details>|
 <!--
 |2025.07.12~07.14|北海道|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
-|2025.07.14~|隠居|その他|また会う日まで。|
+|2024.12.06|今半オフ|オフ会|みんなで贅沢コースを堪能。<br>場所：[人形町今半 人形町本店](https://maps.app.goo.gl/dwF872pEu9jjiFnt5)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇさん</li><li>しおさん</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>よそいちさん</li><li>りらさん</li></ul></details>|
 -->
 <br>
 
