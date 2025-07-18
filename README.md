@@ -58,8 +58,10 @@
 |2025.05.24 19:00~<br>2025.05.25 00:00|旦那とオンゲーVol.2|オンラインマルチ|ゲーム：It Takes Two<details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 |2025.06.07|北京ダックオフ|オフ会|ﾍﾟｷﾝﾀﾞｯたびた。食後の腹ごなしにみなとみらい駅までお散歩した。<br>場所：[北京ダック専門店 民福北京烤鴨店中華街店](https://maps.app.goo.gl/MLdp83oTyQWRJPxf9)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>ぺぇさん</<li>kaijiさん</li><li>シトラスさん</li><li>かしみろあさん</li></ul></details>|
 |2025.06.08|休日ダーツオフVol.1|オフ会|お酒を飲みながらゆる～くダーツしたり腕相撲したり。その後カラオケした。<br>場所：[B-GARAGE 池袋西口店](https://maps.app.goo.gl/HVEtXEwWBc1dNKwm6)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>あんずさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li></ul></details>|
-|2025.07.12~07.14|北海道|オフ会|各々北海道へ向かい、初日はサッポロビール園 ポプラ館で夕食。2日目は小樽へ行き、小樽ビールやかま栄のパンロールを嗜みながら運河や小樽港、北一硝子、オルゴール館を巡った。夕食はdarashiさんおすすめのスープカレーをいただき、クラフトビールも嗜んだ。<br>最終日、前日に買っておいたサンドリアを朝食に新千歳空港へ。<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
+|2025.07.12~07.14|北海道オフ|オフ会|各々北海道へ向かい、初日はサッポロビール園 ポプラ館で夕食。2日目は小樽へ行き、小樽ビールやかま栄のパンロールを嗜みながら運河や小樽港、北一硝子、オルゴール館を巡った。夕食はdarashiさんおすすめのスープカレーをいただき、クラフトビールも嗜んだ。<br>最終日、前日に買っておいたサンドリアを朝食に新千歳空港へ。<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
 <!--
+|2025.08.12|お伊勢さんオフ|オフ会|<br>場所：[]()<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
+|2025.08.13|ACグランドオフ|オフ会|PIUをやりにACグランドへ。<br>場所：[A.C.GRAND](https://maps.app.goo.gl/9E6Jax9ZZEL1r2Uq9)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
 |2024.12.06|今半オフ|オフ会|みんなで贅沢コースを堪能。<br>場所：[人形町今半 人形町本店](https://maps.app.goo.gl/dwF872pEu9jjiFnt5)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇさん</li><li>しおさん</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>よそいちさん</li><li>りらさん</li></ul></details>|
 -->
 <br>
