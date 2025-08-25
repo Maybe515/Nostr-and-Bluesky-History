@@ -62,7 +62,7 @@
 |2025.08.11|お伊勢さん参拝オフ(前日)|オフ会|鳥羽水族館を見て回った。<br>場所：[鳥羽水族館]()<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
 |2025.08.12|お伊勢さん参拝オフ|オフ会|お伊勢さんで参拝をした後、おかげ横丁で豚捨や地酒を堪能した。<br>猿田彦神社でも参拝し、伊勢市駅前でお茶。最後にバッセンで卓球をした。<br>場所：[伊勢神宮]()<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li><li>ろろさん</li><li>あめさん</li><li>ロクヨウさん</li></ul></details>|
 |2025.08.13|ACグランドオフ|オフ会|PIUをメインにプレイ。<br>場所：[A.C.GRAND](https://maps.app.goo.gl/9E6Jax9ZZEL1r2Uq9)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
-|2025.08.16|旦那と会う|オフ会|お昼を食べてからダーツショップを見て回った。<br>場所：[バッドダーツ渋谷]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
+|2025.08.16|旦那と会う|オフ会|お昼を一緒に食べてダーツショップを見て回った。<br>場所：[バッドダーツ渋谷]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
 <!--
 |2025.11.22|Nostrasia|イベント|<br>場所：[]()<br><details><summary>参加者</summary><ul><li></li></ul></details>|
 |2024.12.06|今半オフ|オフ会|<br>場所：[人形町今半 人形町本店](https://maps.app.goo.gl/dwF872pEu9jjiFnt5)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇさん</li><li>旦那（しおさん）</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>こたろうさん</li><li>りらさん</li><li>たーごいるさん</li><li>uchijoさん</li></ul></details>|
