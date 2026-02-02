@@ -59,14 +59,15 @@
 |2025.6.7|北京ダックオフ|オフ会|ﾍﾟｷﾝﾀﾞｯたびた。食後の腹ごなしにみなとみらい駅までお散歩した。<br>場所：[北京ダック専門店 民福北京烤鴨店中華街店](https://maps.app.goo.gl/MLdp83oTyQWRJPxf9)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>旦那（しおさん）</li><li>おっぱぴぃさん</li><li>ぺぇさん</<li>kaijiさん</li><li>シトラスさん</li><li>かしみろあさん</li></ul></details>|
 |2025.6.8|休日ダーツオフVol.1|オフ会|お酒を飲みながらゆる～くダーツしたり腕相撲したり。その後カラオケした。<br>場所：[B-GARAGE 池袋西口店](https://maps.app.goo.gl/HVEtXEwWBc1dNKwm6)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>あんずさん</li><li>kojiraさん</li><li>kaijiさん</li><li>たーごいるさん</li></ul></details>|
 |2025.7.12~7.14|北海道オフ|オフ会|各々北海道へ向かい、初日はサッポロビール園 ポプラ館で夕食。2日目は小樽へ行き、小樽ビールやかま栄のパンロールを嗜みながら運河や小樽港、北一硝子、オルゴール館を巡った。夕食はdarashiさんおすすめのスープカレーをいただき、クラフトビールも嗜んだ。<br>最終日、前日に買っておいたサンドリアを朝食に新千歳空港へ。<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>おっぱぴぃさん</li><li>しのさん</li><li>kaijiさん</li><li>darashiさん</li></ul></details>|
-|2025.8.11|お伊勢さん参拝オフ(前日)|オフ会|鳥羽水族館を見て回った。<br>場所：[鳥羽水族館]()<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
-|2025.8.12|お伊勢さん参拝オフ|オフ会|お伊勢さんで参拝をした後、おかげ横丁で豚捨や地酒を堪能した。<br>猿田彦神社でも参拝し、伊勢市駅前でお茶。最後にバッセンで卓球をした。<br>場所：[伊勢神宮]()<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li><li>ろろさん</li><li>あめさん</li><li>ロクヨウさん</li></ul></details>|
+|2025.8.11|お伊勢さん参拝オフ(前日)|オフ会|鳥羽水族館を見て回った。<br>場所：[鳥羽水族館](https://maps.app.goo.gl/yEBhccoVXgWsKdzFA)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
+|2025.8.12|お伊勢さん参拝オフ|オフ会|お伊勢さんで参拝をした後、おかげ横丁で豚捨や地酒を堪能した。<br>猿田彦神社でも参拝し、伊勢市駅前でお茶。最後にバッセンで卓球をした。<br>場所：[伊勢神宮](https://maps.app.goo.gl/sTGquyf4KRFHxiLJ9)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li><li>ろろさん</li><li>あめさん</li><li>ロクヨウさん</li></ul></details>|
 |2025.8.13|ACグランドオフ|オフ会|PIUをメインにプレイ。<br>場所：[A.C.GRAND](https://maps.app.goo.gl/9E6Jax9ZZEL1r2Uq9)<br><details><summary>参加者</summary><ul><li>SuzuNyaさん</li></ul></details>|
-|2025.8.16|旦那と会う|オフ会|お昼を一緒に食べてダーツショップを見て回った。<br>場所：[バッドダーツ渋谷]()<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
-<!--
-|2025.11.22|Nostrasia|イベント|<br>場所：[]()<br><details><summary>参加者</summary><ul><li></li></ul></details>|
-|2024.12.6|今半オフ|オフ会|<br>場所：[人形町今半 人形町本店](https://maps.app.goo.gl/dwF872pEu9jjiFnt5)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇさん</li><li>旦那（しおさん）</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>こたろうさん</li><li>りらさん</li><li>たーごいるさん</li><li>uchijoさん</li></ul></details>|
--->
+|2025.8.16|旦那と会う|オフ会|お昼を一緒に食べてダーツショップを見て回った。<br>場所：[バッドダーツ渋谷](https://maps.app.goo.gl/tuKU7zi7jjEz6cxU6)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li></ul></details>|
+|2025.12.6|旦那なちゃとダーツ|オフ会|今半前に旦那となちやと投げた<br>場所：[DiCE 池袋店](https://maps.app.goo.gl/5rNcBPyTqh5trytEA)<br><details><summary>参加者</summary><ul><li>旦那（しおさん）</li><li>なちやさん</li></ul></details>
+|2025.12.6|今半オフ|オフ会|二度目の今半オフ。今回もみんなで贅沢コースを堪能。<br>場所：[人形町今半 人形町本店](https://maps.app.goo.gl/dwF872pEu9jjiFnt5)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>ぽーまんさん</li><li>ぺぇさん</li><li>旦那（しおさん）</li><li>kaijiさん</li><li>おっぱぴぃさん</li><li>kojiraさん</li><li>こたろうさん</li><li>りらさん</li><li>たーごいるさん</li><li>uchijoさん</li><li>なちやさん</li></ul></details>|
+|2026.1.3|大阪天満宮オフ|オフ会|初詣に天満宮へ。その後、天王動物園に行った。<br>場所：[大阪天満宮](https://maps.app.goo.gl/iuS3uAUe2JgX81qL7)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>鎌倉さん</li><li>ろろさん</li><li>風呂屋さん</li><li>ものさん</li><li>ロクヨウさん</li><li>あめさん</li></ul></details>|
+|2026.1.3|海遊館オフ|オフ会|海遊館をのんびり堪能。天保山に登って、道頓堀でご飯を食べた。<br>場所：[海遊館](https://maps.app.goo.gl/yDXEFSLmAtFG4B5NA)<br><details><summary>参加者</summary><ul><li>淀川さん</li><li>鎌倉さん</li><li>ろろさん</li><li>風呂屋さん</li><li>たゃさん</li><li>ものさん</li><li>しゅうすいさん</li><li>ロクヨウさん</li><li>あめさん</li><li>りらさん</li></ul></details>|
+|2026.1.22~|隠居|その他|飽きてきたので隠居。また会う日まで。|
 <br>
 
 ## 💙 Bluesky
